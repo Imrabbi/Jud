@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Jarvis personal AI assistant to control your phone, launch apps, send messages, make phone calls, manage device settings, and track daily schedules & reminders with voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
